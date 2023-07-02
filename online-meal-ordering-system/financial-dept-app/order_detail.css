@@ -1,0 +1,72 @@
+
+.order-customer-detail{
+  width: 850px;
+  margin-left: 300px;
+}
+
+.order-cust-pic{
+  float: left;
+  width: 300px;
+  margin: auto;
+  width: 50%;
+  padding-left: 10%;
+}
+
+.order-cust-detail{
+  padding-top: 10px;
+  padding-left: 400px;
+  margin: auto;
+  width: 800px;
+}
+
+.order-food-detail{
+  border: 0.5px solid black;
+  margin-top: 50px;
+  margin-left: 30px;
+  float: left;
+  width: 650px;
+}
+
+.order-detail-pic{
+  float: left;
+}
+
+.order-description{
+  margin-left: 20px;
+  float: left;
+  padding-top: 10px;
+}
+
+.order-description p{
+  font-size: 20px;
+}
+
+.order-detail-frame{
+  float: left;
+}
+
+.order-detail-overall{
+  float: left;
+  width: 1380px;
+  margin-left: 360px;
+}
+
+.order-detail-price{
+
+  padding-top: 10px;
+  float: right;
+  padding-right: 80px;
+}
+
+.order-detail-price p{
+  font-size: 25px;
+}
+
+.order-detail-price strong{
+  font-size: 35px;
+}
+
+
+.backbtn{
+  padding-top: 20px;
+}

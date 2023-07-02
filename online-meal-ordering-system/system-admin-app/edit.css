@@ -1,0 +1,58 @@
+.edit_form{
+	padding:20px;
+	width:60%;
+	height:520px;
+	border:1px solid grey;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2)!important;
+}
+
+.all label{
+	float:left;
+}
+
+.all input{
+	width:100%;
+}
+
+.all textarea{
+	width:100%;
+}
+
+.max{
+	width:200px;
+}
+
+.cancel{
+	color:black;
+}
+
+.cancel:hover{
+	color:black;
+}
+
+.editcancel{
+	width:100%!important;
+}
+
+.whole{
+	float:right;
+	width:83%;
+	max-height:100%;
+	overflow:auto;
+}
+
+.left{
+	float:left;
+	margin-left:0px!important;
+}
+
+.continue{
+	width:30%;
+	height:25%;
+	margin-top:20%;
+}
+
+.continuebtn{
+	width:300px;
+	height:100px;
+}

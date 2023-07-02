@@ -1,0 +1,88 @@
+.galala{
+  box-shadow: 0px 8px 16px 8px rgba(0,0,0,0.2)!impor		<div class="spiderman1">
+			<a href="manage.php"><button class="spiderman3 btn-outline-secondary">Manage Item</button></a>
+		</div>nt;
+  width:1200px!important;
+  height:680px;
+  margin-top:20px;
+}
+
+.change{
+	max-height:100%;
+	max-width:100%;
+}
+
+.change_form{
+	padding:40px;
+	width:50%;
+	float:left;
+}
+
+.int input{
+	float:right;
+	width:60%;
+}
+
+.con{
+	width:500px;
+	float:right;
+	margin-top:50px;
+	margin-right:20px;
+}
+
+.right{
+	float:right;
+}
+
+.cancel{
+	color:black;
+}
+
+.cancel:hover{
+	color:black;
+}
+
+.cancellogout:hover{
+	color:red!important;
+}
+
+.check{
+	width:20px!important;
+	float:left;
+	margin-top:5px;
+}
+
+.left{
+	float:left;
+	margin-left:40%;
+}
+
+.wid{
+	width:400px;
+}
+
+.out{
+	outline-style:groove!important;
+  	outline-width:10px!important;
+  	outline-color:#42a8bc!important;
+  	margin-top:70px;
+  	margin-left:20px;
+}
+
+.miqimiao{
+	width:500px;
+	float:right;
+	margin-top:50px;
+	margin-right:20px;
+}
+
+.card{
+	outline-style:normal!important;
+  	outline-width:10px!important;
+	outline-color:#42a8bc!important;
+	box-shadow: 0px 8px 16px 8px rgba(0,0,0,0.2)!important;
+}
+
+.aaaaa{
+	text-shadow: 2px 1px;
+}

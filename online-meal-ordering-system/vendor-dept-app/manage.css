@@ -1,0 +1,73 @@
+.login_form{
+	height:350px!important;
+}
+
+.login_form label{
+	float:left;
+}
+
+.login_form button{
+	float:left;
+}
+
+.login_form input{
+	width:100%;
+}
+
+.login_form textarea{
+	width:100%;
+}
+
+.left{
+	float:left;
+	margin-left:0px!important;
+}
+
+.tablecon{
+	overflow:auto;
+	height:370px;
+	padding:20px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2)!important;
+}
+
+.whole{
+	float:right;
+	width:83%;
+	height:650px;
+}
+
+.navbar navbar-light bg-light{
+	height:150px;
+}
+
+.add_form{
+	padding:20px;
+	width:600px;
+	height:480px;
+	float:right;
+	overflow:auto;
+	outline-style:groove!important;
+ 	outline-width:1px!important;
+  	outline-color:#efefef!important;
+  	margin-top:10px;
+  	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2)!important;
+}
+
+.card1{
+	width:350px;
+	float:right;
+	margin-top:-60px;
+}
+
+.card-body a{
+	float:left;
+}
+
+.btnm{
+	float:right;
+}
+
+.maxfull{
+	width:1150px!important;
+}
+

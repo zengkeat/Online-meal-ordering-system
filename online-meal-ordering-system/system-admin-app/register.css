@@ -1,0 +1,84 @@
+.float{
+	float:right;
+	width:250px	;
+}
+
+.wid{
+	width:600px;
+}
+
+.cus_form{
+	box-shadow: 8px 8px 18px 4px rgba(0,0,0,0.2)!important;
+	width:95%;
+	color:#4c4c4c;
+	background-color:#e2e0e0!important;
+}
+
+.cus_form input{
+	width:80%;
+	color:grey;
+	background-color:#f4f4f4;
+}
+
+.cus_form label{
+	float:left;
+	margin-left:12%;
+}
+
+.cus_form textarea{
+	width:80%;
+}
+
+.role{
+	width:80%!important;
+	float:left!important;
+}
+
+.rola{
+	float:left!important;
+	width:40%!important;
+	margin-left:5%;
+}
+
+.rola label{
+	margin-left:0px;
+	width:100%;
+	float:left;
+}
+
+.rola select{
+	margin-left:0px;
+}
+
+.rola input{
+	margin-left:0px;
+	width:20%;
+}
+
+
+.butttt{
+	width:80%;
+}
+
+.lflflflf{
+	float:left;
+	width:41%;
+	margin-left:6%;
+}
+
+.lflflflflf{
+	width:100%;
+	float:left;
+}
+
+.cecehoho{
+	overflow:hidden;
+	height:1000px;
+}
+
+.wholewhole{
+	float:right;
+	width:83%;
+	max-height:500px;
+	overflow:auto;
+}

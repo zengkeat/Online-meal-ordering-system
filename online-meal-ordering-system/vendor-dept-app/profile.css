@@ -1,0 +1,63 @@
+.wholep{
+	float:right;
+	width:83%;
+	height:655px;
+	overflow:hidden;
+}
+
+.profile{
+	padding:20px;
+}
+
+.logobtn{
+	margin-top:200px;
+	float:left;
+	margin-left:20px;
+}
+
+.profile_detail{
+	height:500px;
+	width:100%;
+	float:left;
+}
+
+.thumbthumb{
+	margin-left:3%;
+	width:15%;
+	float:left;
+	position:relative;
+}
+
+.heihei{
+	height:500px;
+	margin-top:10px;
+	overflow:auto;
+}
+
+.heithumb{
+	height:99%;
+	width:99%;
+	margin:1%;
+}
+
+.heiboy{
+	width:100%;
+	height:40%;
+}
+
+.idkwor{
+	margin-left:4%;
+	height:20%;
+}
+
+.tiredla{
+	width:14%;
+	height:70%;
+	margin-left:2%;
+}
+
+.worfot{
+	width:100%;
+	height:100%;
+}
+

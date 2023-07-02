@@ -1,0 +1,178 @@
+.bigbox{
+	height:250px!important;
+	width:20%;
+	float:left;
+	position:relative;
+}
+
+.smallbox{
+	height:94%!important;
+	width:94%;
+	margin:3%;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2)!important;
+}
+
+.boximg{
+	height:50%;
+	width:100%;
+  overflow:hidden;
+}
+
+.imgimg{
+	margin-left:5%;
+	width:90%!important;
+	height:100%!important;
+	float:left;
+  opacity: 1;
+  display: block;
+  transition: .5s ease;
+  backface-visibility: hidden;
+  object-fit: cover;
+  box-shadow: 0px 8px 16px 4px rgba(0,0,0,0.2)!important;
+}
+
+.food_price{
+	width:90%;
+	height:15%;
+	margin-left:10%;
+  overflow:hidden;
+  text-overflow: ellipsis;
+  white-space: pre;  
+}
+
+.food_description{
+	width:90%;
+	height:34%;
+	margin-left:10%;
+  overflow:hidden;   
+}
+
+.boximg .btnnn {
+  position: absolute;
+  top: 90%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: grey;
+  color: white;
+  font-size: 14px;
+  padding: 10px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.boximg .btnnn:hover {
+  background-color: #c7c9cc;
+  color:black;
+}
+
+.boximg .btnn {
+  position: absolute;
+  top: 0%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: grey;
+  color: white;
+  font-size: 14px;
+  padding: 10px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.boximg .btnn:hover {
+  background-color: #c7c9cc;
+  color:black;
+
+}
+
+.wiwi{
+  width:98%;
+  margin-left:1%;
+}
+
+.popo{
+  background-color:;
+  overflow:hidden;
+  width:100%;
+}
+
+.btnnnn{
+  width:80%;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-75%, -75%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+  height:50%!important;
+}
+
+.middle1 {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+  height:50%!important;
+}
+
+.imgimg:hover .middle {
+  opacity:0.2;
+}
+
+.imgimg:hover .middle1 {
+  opacity:0.2;
+}
+
+
+.bibioimg:hover .middle {
+  opacity:1;
+}
+
+.bibioimg1:hover .middle1 {
+  opacity:1;
+}
+
+.bibioimg{
+  height:50%;
+  width:100%!important;
+  float:left;
+  opacity: 1;
+  display: block;
+  transition: .5s ease;
+  backface-visibility: hidden;
+  object-fit: cover;
+  transform: translate(-0%, -200%);
+}
+
+.bibioimg1{
+  height:50%;
+  width:100%!important;
+  float:left;
+  opacity: 1;
+  display: block;
+  transition: .5s ease;
+  backface-visibility: hidden;
+  object-fit: cover;
+  transform: translate(-0%, -200%);
+
+}
+
+.pipopa{
+  margin-top:10px!important;
+}
+
+.haisec{
+  width:70%;
+}
