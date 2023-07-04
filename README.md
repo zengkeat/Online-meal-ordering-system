@@ -59,7 +59,7 @@ The system offers a new way to order food and top-up throught the web applicatio
 ## Step 4:
 1. In your web browser, type "http://localhost/online-meal-ordering-system/meal-ordering-app/customer_login.php" to navigate to the AP-Grab Meal login page, you should see something like this:
     <img width="1564" alt="Screenshot 2023-07-04 at 2 50 38 PM" src="https://github.com/zengkeat/Online-meal-ordering-system/assets/42499826/af31dda1-f73e-4f6f-98ee-8c3e459d983e">
-2. If you want to login into staff (financial, system admin or stall) application, then click on the link "Staff?Click Here"type or type "http://localhost/online-meal-ordering-system/meal-ordering-app/staff_login.php"
+2. If you want to login into staff (financial, system admin or stall) application, then click on the link "Staff?Click Here", or type "http://localhost/online-meal-ordering-system/meal-ordering-app/staff_login.php"
 
 <br>
 <br>
