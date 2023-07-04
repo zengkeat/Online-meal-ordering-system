@@ -31,4 +31,12 @@
           - username: admin1, password:12345678, role: System Admin(pick at the drop down)
       - vendor-dept-application (http://localhost/online-meal-ordering-system/meal-ordering-app/staff_login.php):
           - username: western, password:12345678, role: Stall Department(pick at the drop down)
+          - username: chinese, password:12345678, role: Stall Department(pick at the drop down)
+          - username: malay, password:12345678, role: Stall Department(pick at the drop down)
+          - username: indian, password:12345678, role: Stall Department(pick at the drop down)
+          - username: arab, password:12345678, role: Stall Department(pick at the drop down)
+          - username: bakery, password:12345678, role: Stall Department(pick at the drop down)
+          - username: dessert, password:12345678, role: Stall Department(pick at the drop down)
+          - username: beverage, password:12345678, role: Stall Department(pick at the drop down)
+            
 
