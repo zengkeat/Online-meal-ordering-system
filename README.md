@@ -48,11 +48,12 @@ The system offers a new way to order food and top-up throught the web applicatio
   - Create a database called "online_meal_system" in phpMyAdmin
   - Import the online_meal_system.sql into your database
   - NOTE: Below is the code to connect the phpMyAdmin MySQL databases in conn.php, if your username, password or database name is different then you have to update it in every conn.php in each sub-folder
-  - <img width="605" alt="Screenshot 2023-07-04 at 2 03 16 PM" src="https://github.com/zengkeat/Online-meal-ordering-system/assets/42499826/65c03bf0-5dc9-469b-9ecf-ed5689e4fe33">
+    <img width="605" alt="Screenshot 2023-07-04 at 2 03 16 PM" src="https://github.com/zengkeat/Online-meal-ordering-system/assets/42499826/65c03bf0-5dc9-469b-9ecf-ed5689e4fe33">
 
 ## Step 4:
-  - In your web browser, type "localhost/online-meal-ordeing-system/customer_login.php" to navigate to the login page
-  - Depend on which application you want to visit, enter the username, password and choose a role(if you want to access financial, system admin or stall department) web application.
+  - In your web browser, type "localhost/online-meal-ordeing-system/customer_login.php" to navigate to the AP-Grab Meal login page, you should see something like this:
+    <img width="1564" alt="Screenshot 2023-07-04 at 2 50 38 PM" src="https://github.com/zengkeat/Online-meal-ordering-system/assets/42499826/af31dda1-f73e-4f6f-98ee-8c3e459d983e">
+  - If you want to login into staff (financial, system admin or stall) application, then type "localhost/online-meal-ordeing-system/staff_login.php", or click on the link "Staff?Click Here"
 
 <br>
 <br>
