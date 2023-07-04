@@ -1,5 +1,34 @@
 # Online-meal-ordering-system
 
+# Introduction:
+  - The whole project consist of 4 different web-based system:
+    - Main web application (meal ordring application) functionality include:
+      - Take order, track order, and cancel order
+      - Set Favourite Order
+      - Top-up student card
+      - Modify Account
+      - View Transaction history including generate invoice
+    - Financial department web application:
+      - Search Customer Profile
+      - Reload / Refund Credit Balance
+      - View Order / Customer / Credit, Transaction.
+      - View Invoice
+      - Sales Report
+      - Stall Report
+    - Stall/Vendor web application:
+      - Update Available Food
+      - Manage Food
+      - View Food Information
+      - Stall Profile
+      - Change Password
+      - Monthly Report and Profit Report
+    - System Admin web application:
+      - upload, edit, delete post at the ads banner
+      - Register and Manage student, lecturer, staff
+      - Manage Stall Owner account
+      - Display database information
+    
+
 # Step 1:
   - Download the respository
 
