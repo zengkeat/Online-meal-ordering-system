@@ -42,10 +42,10 @@ The system offers a new way to order food and top-up throught the web applicatio
 # Steps to setup the project in your computer:
 ## Step 1:
   - Download the respository "online-meal-ordering-system"
-  - Download the "online_meal_system.sql"
+  - unzip th
 
 ## Step 2:
-  - Put the entire folder "online-mea-ordering-system" into web server, im using XAMPP but you use anything you want
+  - Copy and paste the folder "online-mea-ordering-system" into your web server, im using XAMPP but you use anything you want
   - If you using XAMPP:
     - Put the entire folder into folder called "htdocs"
 
@@ -57,9 +57,9 @@ The system offers a new way to order food and top-up throught the web applicatio
     <img width="605" alt="Screenshot 2023-07-04 at 2 03 16 PM" src="https://github.com/zengkeat/Online-meal-ordering-system/assets/42499826/65c03bf0-5dc9-469b-9ecf-ed5689e4fe33">
 
 ## Step 4:
-  - In your web browser, type "localhost/online-meal-ordeing-system/customer_login.php" to navigate to the AP-Grab Meal login page, you should see something like this:
+  - In your web browser, type "http://localhost/online-meal-ordering-system/meal-ordering-app/customer_login.php" to navigate to the AP-Grab Meal login page, you should see something like this:
     <img width="1564" alt="Screenshot 2023-07-04 at 2 50 38 PM" src="https://github.com/zengkeat/Online-meal-ordering-system/assets/42499826/af31dda1-f73e-4f6f-98ee-8c3e459d983e">
-  - If you want to login into staff (financial, system admin or stall) application, then type "localhost/online-meal-ordeing-system/staff_login.php", or click on the link "Staff?Click Here"
+  - If you want to login into staff (financial, system admin or stall) application, then type "http://localhost/online-meal-ordering-system/meal-ordering-app/staff_login.php", or click on the link "Staff?Click Here"
 
 <br>
 <br>
@@ -74,7 +74,7 @@ The system offers a new way to order food and top-up throught the web applicatio
           - username: TP044765, password: 12345678
       - financial-dept-application (http://localhost/online-meal-ordering-system/meal-ordering-app/staff_login.php):
           - username: finance1, password:12345678, role: Financial Department(pick at the drop down)
-      - system-admin-application (http://localhost/online-meal-ordering-system/meal-ordering-app/staff_login.php):
+      - system-admin-application http://localhost/online-meal-ordering-system/meal-ordering-app/staff_login.php):
           - username: admin1, password:12345678, role: System Admin(pick at the drop down)
       - vendor-dept-application (http://localhost/online-meal-ordering-system/meal-ordering-app/staff_login.php):
           - username: western, password:12345678, role: Stall Department(pick at the drop down)
