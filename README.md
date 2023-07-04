@@ -73,9 +73,9 @@ The system offers a new way to order food and top-up throught the web applicatio
           - username: TP044766, password: 12345678
           - username: TP044765, password: 12345678
       - financial-dept-application (http://localhost/online-meal-ordering-system/meal-ordering-app/staff_login.php):
-          - username: finance1, password:12345678, role: Financial Department(pick at the drop down)
+          - username: finance, password:12345678, role: Financial Department(pick at the drop down)
       - system-admin-application http://localhost/online-meal-ordering-system/meal-ordering-app/staff_login.php):
-          - username: admin1, password:12345678, role: System Admin(pick at the drop down)
+          - username: admin, password:12345678, role: System Admin(pick at the drop down)
       - vendor-dept-application (http://localhost/online-meal-ordering-system/meal-ordering-app/staff_login.php):
           - username: western, password:12345678, role: Stall Department(pick at the drop down)
           - username: chinese, password:12345678, role: Stall Department(pick at the drop down)
