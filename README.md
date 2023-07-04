@@ -41,7 +41,8 @@ The system offers a new way to order food and top-up throught the web applicatio
 
 # Steps to setup the project in your computer:
 ## Step 1:
-  - Download the respository
+  - Download the respository "online-meal-ordering-system"
+  - Download the "online_meal_system.sql"
 
 ## Step 2:
   - Put the entire folder "online-mea-ordering-system" into web server, im using XAMPP but you use anything you want
