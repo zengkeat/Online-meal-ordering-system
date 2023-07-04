@@ -1,7 +1,7 @@
 # AP-Grad Meal
 
 # Introduction:
-AP-Grab Meal is an online meal ordering system that intended to develop a better approach to solve the long waiting line in the cafeteria and student card top-up area, especially in the peak hour such as lunch time.
+AP-Grab Meal is an online meal ordering system that intended to develop a better approach to solve the long waiting line in the cafeteria and student card top-up area of Asia Pacific University, especially in the peak hour such as lunch time.
 
 The system offers a new way to order food and top-up throught the web application. The whole system contain 4 different web-based system and functionality:
 - Meal ordring application:
