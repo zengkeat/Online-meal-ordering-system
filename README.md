@@ -51,7 +51,7 @@ The system offers a new way to order food and top-up throught the web applicatio
 
 ## Step 3:
   - Start your MySQL, ProFTPD and Apache Webserver in XAMPP
-  - Create a database called "online_meal_system" in phpMyAdmin
+  - Open your phpMyAdmin (http://localhost/phpmyadmin/) from your XAMPP server and create a database called "online_meal_system"
   - Import the online_meal_system.sql into your database
   - NOTE: Below is the code to connect the phpMyAdmin MySQL databases in conn.php, if your username, password or database name is different then you have to update it in every conn.php in each sub-folder
     <img width="605" alt="Screenshot 2023-07-04 at 2 03 16 PM" src="https://github.com/zengkeat/Online-meal-ordering-system/assets/42499826/65c03bf0-5dc9-469b-9ecf-ed5689e4fe33">
