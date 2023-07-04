@@ -34,6 +34,9 @@ The system offers a new way to order food and top-up throught the web applicatio
 <br>
 <br>
 
+#Technology:
+- plain/vanilla PHP, HTML, CSS, JS, BootStrap, MySQL
+
 # Step to setup the project in your computer:
 ## Step 1:
   - Download the respository
