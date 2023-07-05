@@ -40,7 +40,7 @@ The system offers a new way to order food and top-up throught the web applicatio
 
 # Steps to setup the project in your computer:
 ## Step 1:
-1. Download the respository "online-meal-ordering-system"
+1. Download the respository
 2. unzip the folder
 
 ## Step 2:
