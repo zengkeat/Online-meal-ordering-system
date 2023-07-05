@@ -4,31 +4,30 @@
 AP-Grab Meal is an online meal ordering system that intended to develop a better approach to solve the long waiting line in the cafeteria and student card top-up area of Asia Pacific University, especially in the peak hour such as lunch time.
 
 The system offers a new way to order food and top-up throught the web application. The whole system contain 4 different web-based system and functionality:
-- Meal ordring application:
-  - Take order, track order, and cancel order
+- Meal ordering application(main website - AP-Grab Meal):
+  - Made food order, track order, and cancel order
   - Set Favourite Order
   - Top-up student card
-  - Modify Account
+  - Modify users own account
   - View Transaction history including generate invoice
 - Financial department web application:
-  - Search Customer Profile
-  - Reload / Refund Credit Balance
-  - View Order / Customer / Credit, Transaction.
-  - View Invoice
-  - Sales Report
-  - Stall Report
+  - Be able to search and view Student/Staff activities and profile
+  - Reload / Refund Credit Balance for users
+  - View Order / Customer / Credit Transaction.
+  - View and generate Invoice
+  - Generate Total Sales Report
+  - Generate Vendor specific report
 - Stall/Vendor web application:
-  - Update Available Food
-  - Manage Food
-  - View Food Information
-  - Stall Profile
-  - Change Password
-  - Monthly Report and Profit Report
+  - Add, Update or Delete vendor's dishes to the menu in AP-Grab Meal
+  - Manage vendor's food availability status
+  - Manage and track incoming food order
+  - Manage Vendor own Profile
+  - Generate monthly Report and Profit Report
 - System Admin web application:
-  - upload, edit, delete post at the ads banner
-  - Register and Manage student, lecturer, staff
-  - Manage Stall Owner account
-  - Display database information
+  - upload, edit, delete post at the ads banner in AP-Grab Meal
+  - Be able to Register, access and modify student or staff profile
+  - Be able to modify Vendor/Stall Owner account
+  - Be able to access and mofidy some database entries
     
 <br>
 <br>
